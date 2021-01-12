@@ -1,13 +1,12 @@
 <html>
     <head>
-        <link rel="stylesheet" href="" />
-        <link rel="stylesheet" href="plugins/p1/style.css" />
-        <link rel="stylesheet" href="plugins/p1/script.js" />
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="script.js" />
     </head>
     
     <body>
         <div class="container">
-            <div class="box-mapa">
+            <div class="box-mapa alert-primary">
                 <svg id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460" height="465" style="display: inline;">
                     <g class="model-davi">
 

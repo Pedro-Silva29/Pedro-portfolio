@@ -1,8 +1,7 @@
 <html>
     <head>
-        <link rel="stylesheet" href="plugin" />
-        <link rel="stylesheet" href="plugins/p1/style.css" />
-        <link rel="stylesheet" href="plugins/p1/script.js" />
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="script.js" />
     </head>
     <body>
 
